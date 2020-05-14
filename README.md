@@ -17,4 +17,4 @@
 
 - Credits
 
-![Credits](https://github.com/poom201211/SSD-Lab-Project/blob/master/UML%20image/Credits.png)
+![Credits](https://github.com/poom201211/HoleNewLevel/blob/master/Images/Credits.png)
